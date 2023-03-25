@@ -1,31 +1,24 @@
 {
-  "name": "restful-api-vercel",
+  "name": "fahasa-api",
   "version": "1.0.0",
-  "description": "This is a ready RESTful API created with the JSON Server package",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ifkas/restful-api-vercel.git"
+    "url": "git+https://github.com/tquann286/fahasa-api.git"
   },
-  "keywords": [
-    "restful",
-    "rest",
-    "api",
-    "vercel",
-    "json",
-    "server"
-  ],
-  "author": "Ivo Culic",
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ifkas/restful-api-vercel/issues"
+    "url": "https://github.com/tquann286/fahasa-api/issues"
   },
-  "homepage": "https://github.com/ifkas/restful-api-vercel#readme",
-  "dependencies": {},
-  "devDependencies": {
-    "json-server": "^0.17.1"
+  "homepage": "https://github.com/tquann286/fahasa-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
   }
 }

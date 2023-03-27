@@ -306,6 +306,36 @@
             "imageSrc": "https://firebasestorage.googleapis.com/v0/b/fahasa-books.appspot.com/o/book%2Fdownload%20(3).jpg-tvTIhz?alt=media&token=5c6bdb54-defc-459c-8cfb-d09fd14611c2",
             "productPrice": 10000,
             "id": "FPtdTZQ"
+        },
+        {
+            "productName": "Miền Đất Hứa - The Promised Neverland - 1 Phiên Bản Black Ver",
+            "imageSrc": "https://firebasestorage.googleapis.com/v0/b/fahasa-books.appspot.com/o/book%2Fmien_dat_hua_1_bia_1_black.jpg-ImBECl?alt=media&token=c37209af-56bf-40d0-9124-ba389eb2152d",
+            "productPrice": 40000,
+            "episode": "20",
+            "inventory": "0",
+            "id": "Q4020On"
+        },
+        {
+            "productName": "Chỉ Mình Tôi Thăng Cấp - Solo Leveling - Tập 1",
+            "imageSrc": "https://firebasestorage.googleapis.com/v0/b/fahasa-books.appspot.com/o/book%2Fch_-m_nh-t_i-th_ng-c_p---solo-leveling-11111111_1.jpg-hJJjjg?alt=media&token=034d25ae-4b12-4bc0-92a4-f118446109e0",
+            "productPrice": 250000,
+            "discount": "20",
+            "episode": "4",
+            "inventory": "0",
+            "id": "s6KjOo_"
+        },
+        {
+            "productName": "Boxset Your Name - 3 Tập",
+            "imageSrc": "https://firebasestorage.googleapis.com/v0/b/fahasa-books.appspot.com/o/book%2F8935250701426-1_1.jpg-GWXMsm?alt=media&token=f671bfa0-91c6-4bde-9957-7e4eed3b389c",
+            "productPrice": 270000,
+            "id": "dWlGzvg"
+        },
+        {
+            "productName": "Sword Art Online 18",
+            "imageSrc": "https://firebasestorage.googleapis.com/v0/b/fahasa-books.appspot.com/o/book%2Fcover-1-sao-18.jpg-iL0QaB?alt=media&token=f3366d28-89f6-494c-94d1-52ca921c6e55",
+            "productPrice": 125000,
+            "episode": "24",
+            "id": "W84fh8t"
         }
     ],
     "user": [
@@ -321,6 +351,128 @@
             "email": "nguoidung@gmail.com",
             "role": "user",
             "id": "JGIHnl1Lg6UtEjvVUK3fwBCpuUU2"
+        },
+        {
+            "email": "truongnhathuy@gmail.com",
+            "username": "Trương Nhật Huy",
+            "id": "T3ytPl6kYVQVrTPsn8bIEFMyFXk2",
+            "role": "user"
+        },
+        {
+            "email": "huynhphat@gmail.com",
+            "username": "Phát Huỳnh",
+            "id": "ZnfCD3fEqrhdp1yqN6XznL5OtKc2",
+            "role": "user"
+        },
+        {
+            "email": "tanpun@gmail.com",
+            "username": "Tân Pun",
+            "id": "5EV183oO0cdL5ZqORGXwEHYIDGD2",
+            "role": "user"
+        },
+        {
+            "email": "nguyenphuoc@gmail.com",
+            "username": "Phước nguỹen",
+            "id": "TcjyTFrZknddYjpp4aBPfuzlIhB2",
+            "role": "user"
+        }
+    ],
+    "schedule": [
+        {
+            "user": {
+                "username": "nguoidung",
+                "email": "nguoidung@gmail.com",
+                "role": "user",
+                "id": "JGIHnl1Lg6UtEjvVUK3fwBCpuUU2"
+            },
+            "book": {
+                "productName": "Phương Pháp \"Đào Tạo\" Nữ Chính Nhạt Nhòa - Bản Giới Hạn - Tặng Kèm Gameplay Card + Poster",
+                "imageSrc": "https://cdn0.fahasa.com/media/catalog/product/z/4/z4167921834303_05362853971057c22e6d69dfe0b33796.jpg",
+                "productPrice": 270000,
+                "inventory": "6",
+                "id": "422226"
+            },
+            "created": "2023-03-24T07:22:28.396Z"
+        },
+        {
+            "user": {
+                "email": "truongnhathuy@gmail.com",
+                "username": "Trương Nhật Huy",
+                "id": "T3ytPl6kYVQVrTPsn8bIEFMyFXk2",
+                "role": "user"
+            },
+            "book": {
+                "id": "420960",
+                "productName": "Hiểu Về Trái Tim (Tái Bản 2023)",
+                "product_finalprice": "134.300",
+                "productPrice": "158000",
+                "soon_release": "0",
+                "product_url": "https://www.fahasa.com/hieu-ve-trai-tim-tai-ban-2023.html",
+                "imageSrc": "https://cdn0.fahasa.com/media/catalog/product/z/4/z4118763446785_cf4bc22d353b065bbb37e686de1f9207.jpg",
+                "discount": 15,
+                "episode": null
+            },
+            "created": "2023-03-26T23:33:20.604Z"
+        },
+        {
+            "user": {
+                "email": "huynhphat@gmail.com",
+                "username": "Phát Huỳnh",
+                "id": "ZnfCD3fEqrhdp1yqN6XznL5OtKc2",
+                "role": "user"
+            },
+            "book": {
+                "id": "231611",
+                "productName": "Đời Ngắn Đừng Ngủ Dài (Tái Bản 2018)",
+                "product_finalprice": "56.250",
+                "productPrice": "75000",
+                "soon_release": "0",
+                "product_url": "https://www.fahasa.com/doi-ngan-dung-ngu-dai-tai-ban-2018.html",
+                "imageSrc": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_180164_1_43_1_57_1_4_1_2_1_210_1_29_1_98_1_25_1_21_1_5_1_3_1_18_1_18_1_45_1_26_1_32_1_14_1_2730.jpg",
+                "discount": 25,
+                "episode": null
+            },
+            "created": "2023-03-26T17:13:38.608Z"
+        },
+        {
+            "user": {
+                "email": "tanpun@gmail.com",
+                "username": "Tân Pun",
+                "id": "5EV183oO0cdL5ZqORGXwEHYIDGD2",
+                "role": "user"
+            },
+            "book": {
+                "id": "421635",
+                "productName": "Nhất Quỷ Nhì Ma, Thứ Ba (Vẫn Là) Takagi - Tập 12 - Tặng Kèm Postcard",
+                "product_finalprice": "30000",
+                "productPrice": "30000",
+                "soon_release": "0",
+                "product_url": "https://www.fahasa.com/nhat-quy-nhi-ma-thu-ba-van-la-takagi-tap-12-tang-kem-postcard.html",
+                "imageSrc": "https://cdn0.fahasa.com/media/catalog/product/n/q/nqnmtbvltt12.jpg",
+                "discount": 0,
+                "episode": "12"
+            },
+            "created": "2024-02-20T04:41:59.823Z"
+        },
+        {
+            "user": {
+                "email": "nguyenphuoc@gmail.com",
+                "username": "Phước nguỹen",
+                "id": "TcjyTFrZknddYjpp4aBPfuzlIhB2",
+                "role": "user"
+            },
+            "book": {
+                "id": "394791",
+                "productName": "Đắc Nhân Tâm (Khổ Nhỏ) (Tái bản 2022)",
+                "product_finalprice": "47.600",
+                "productPrice": "68000",
+                "soon_release": null,
+                "product_url": "https://www.fahasa.com/dac-nhan-tam-kho-nho-tai-ban-2022.html",
+                "imageSrc": "https://cdn0.fahasa.com/media/catalog/product/8/9/8935086855546.jpg",
+                "discount": 30,
+                "episode": null
+            },
+            "created": "2024-01-30T16:33:01.631Z"
         }
     ]
 }

@@ -379,6 +379,7 @@
     ],
     "schedule": [
         {
+            "id": "HD001",
             "user": {
                 "username": "nguoidung",
                 "email": "nguoidung@gmail.com",
@@ -392,9 +393,11 @@
                 "inventory": "6",
                 "id": "422226"
             },
-            "created": "2023-03-24T07:22:28.396Z"
+            "created": "2023-03-24T07:22:28.396Z",
+            "paid": true
         },
         {
+            "id": "HD002",
             "user": {
                 "email": "truongnhathuy@gmail.com",
                 "username": "Trương Nhật Huy",
@@ -412,9 +415,11 @@
                 "discount": 15,
                 "episode": null
             },
-            "created": "2023-03-26T23:33:20.604Z"
+            "created": "2023-03-26T23:33:20.604Z",
+            "paid": false
         },
         {
+            "id": "HD003",
             "user": {
                 "email": "huynhphat@gmail.com",
                 "username": "Phát Huỳnh",
@@ -432,9 +437,11 @@
                 "discount": 25,
                 "episode": null
             },
-            "created": "2023-03-26T17:13:38.608Z"
+            "created": "2023-03-26T17:13:38.608Z",
+            "paid": true
         },
         {
+            "id": "HD004",
             "user": {
                 "email": "tanpun@gmail.com",
                 "username": "Tân Pun",
@@ -452,9 +459,11 @@
                 "discount": 0,
                 "episode": "12"
             },
-            "created": "2024-02-20T04:41:59.823Z"
+            "created": "2024-02-20T04:41:59.823Z",
+            "paid": true
         },
         {
+            "id": "HD005",
             "user": {
                 "email": "nguyenphuoc@gmail.com",
                 "username": "Phước nguỹen",
@@ -472,7 +481,8 @@
                 "discount": 30,
                 "episode": null
             },
-            "created": "2024-01-30T16:33:01.631Z"
+            "created": "2024-01-30T16:33:01.631Z",
+            "paid": false
         }
     ]
 }

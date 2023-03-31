@@ -350,7 +350,12 @@
             "username": "nguoidung",
             "email": "nguoidung@gmail.com",
             "role": "user",
-            "id": "JGIHnl1Lg6UtEjvVUK3fwBCpuUU2"
+            "id": "JGIHnl1Lg6UtEjvVUK3fwBCpuUU2",
+            "favorites": [
+                "422226",
+                "420954",
+                "420960"
+            ]
         },
         {
             "email": "truongnhathuy@gmail.com",

@@ -862,5 +862,9 @@
             "inventory": "16",
             "episode": "2"
         }
-    ]
+    ],
+    "total": {
+        "books": 0,
+        "users": 0
+    }
 }

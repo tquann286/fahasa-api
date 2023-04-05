@@ -5,10 +5,10 @@ const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 3001 // you can use any port number here; i chose to use 3001
 
 router.get('/statistic', (req, res) => {
-  const { books, users } = router.db.value()
+  const { book, user } = router.db.value()
   const total = {
-    books: books.length,
-    users: users.length,
+    book: book.length,
+    user: user.length,
   }
   res.jsonp(total)
 })
